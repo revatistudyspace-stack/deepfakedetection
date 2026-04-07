@@ -1,2 +1,2 @@
 # deepfakevideodetction
-deepfake video detection system with explainable visualisation
+deepfake video detection with explainable visualisation
